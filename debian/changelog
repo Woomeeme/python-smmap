@@ -1,3 +1,11 @@
+python-smmap (6.0.0-1) unstable; urgency=medium
+
+  * New upstream version 6.0.0
+  * Bump Standards-Version to 4.6.2
+  * debian/control: Switch test runner from nose to pytest. (Closes: #1018580)
+
+ -- TANIGUCHI Takaki <takaki@debian.org>  Tue, 14 Nov 2023 13:09:39 +0900
+
 python-smmap (5.0.0-1) unstable; urgency=medium
 
   * New upstream version 5.0.0
